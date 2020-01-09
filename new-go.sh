@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Generate template go for leetcode problems
-# Usage: ./new.sh https://leetcode.com/problems/count-and-say/description/
+# Usage: ./new-go.sh https://leetcode.com/problems/count-and-say/description/
 
 PROBLEM_URL=$1
 
